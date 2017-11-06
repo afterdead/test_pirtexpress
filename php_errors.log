@@ -1,0 +1,2 @@
+[06-Nov-2017 10:13:27 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\AppServ\www\test_print\ajax_filter.php on line 18
+[06-Nov-2017 10:13:32 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\AppServ\www\test_print\ajax_filter.php on line 18
